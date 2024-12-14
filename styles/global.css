@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-html { 
+html {
   scroll-behavior: smooth;
 }
 
@@ -42,7 +42,7 @@ img {
 
 address,
 ul,
-li { 
+li {
   font-style: normal;
   font-weight: normal;
   line-height: normal;
