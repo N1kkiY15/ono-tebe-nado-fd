@@ -179,9 +179,6 @@ header {
   font-family: Raleway;
   font-size: 22px;
   font-weight: 500;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .lots {
@@ -337,7 +334,6 @@ header {
   line-height: 46.96px;
   text-transform: uppercase;
   margin-top: 137px;
-  font-family: Raleway;
   letter-spacing: 0.001em;
   margin-bottom: 100px;
 }
