@@ -96,7 +96,7 @@ header {
   opacity: 60%;
 }
 
-.cover__title { 
+.cover__title {
   display: flex;
   flex-direction: column;
   font-family: Raleway, sans-serif;
@@ -186,12 +186,12 @@ header {
   margin-bottom: 31px;
 }
 
-.lots__card-list-item { 
+.lots__card-list-item {
   width: 334px;
   min-height: 563px;
 }
 
-.card_link { 
+.card_link {
   text-decoration: none;
   height: 100%;
 }
