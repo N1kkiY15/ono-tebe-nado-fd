@@ -47,5 +47,6 @@ li {
   font-weight: normal;
   line-height: normal;
   margin: 0;
+  list-style: none;
   padding: 0;
 }
