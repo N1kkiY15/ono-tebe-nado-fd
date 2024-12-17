@@ -1,11 +1,5 @@
-.container {
-  display: flex;
-  flex-direction: column;
-  min-height: 100%;
-}
-
 main {
-  flex: 1 0 auto;
+  margin-bottom: 181px;
 }
 
 header {
@@ -323,7 +317,6 @@ header {
 }
 
 .footer {
-  flex: 0 0 auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-areas: "footer__address footer__menu footer__social-list";
